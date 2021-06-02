@@ -3,7 +3,8 @@ This is a web application that streamlines the collection, collation, and analys
 It is important to note that this was not a solo project, but a collaboration between five members (found below). 
 
 *This project completed and submitted as a group for credit at Ohio State University.*   
-Thus, I am unable to publicly post the code. However, **I will happily review the code privately**.  
+Thus, I am unable to publicly post the code. Images of the application can be found below.  
+**I can and will happily review the code privately**.  
 
 I (Logan Wolfe) am responsible for the Group and Roster models, controllers, views, forms, routes, db tables, etc.  
 I contributed elsewhere but most of my work is seen there.  
