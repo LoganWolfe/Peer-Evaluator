@@ -9,24 +9,7 @@ I (Logan Wolfe) am responsible for the Group and Roster models, controllers, vie
 I contributed elsewhere but most of my work is seen there.  
 
 Language-wise, I used Ruby, SQL, HTML, CSS, and JavaScript to achieve all functionality.   
-Tools/technologies I used include Rails, Bootstrap, Devise, jQuery, jQuery UI, SQLite (dev), and PostgreSQL (prod).
-
-# Work Examples
-##### Landing page for teachers. User log in and authentication is done using Devise.
-![Teacher Landing Page](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/TeacherLandingPage.png)  
-  
-
-##### Group assignment page for teachers. Drag N' Drop lists from students enrolled in the class and currently in the group.
-![Teacher Group Assignment](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/TeacherGroupDragNDrop.png)  
-  
-
-##### Teacher's review of evaluations and average score received by each student. Teacher can assign/change scores if needed.
-![Teacher Review of Evaluations](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/TeacherReviewOfEvalulations.png)  
-  
-
-##### Landing page for students. Only option they have is to create new or view existing evaluations.
-![Student Landing Page](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/StudentLandingPage.png)  
-  
+Tools/technologies I used include Rails, Bootstrap, Devise, jQuery, jQuery UI, SQLite (dev), and PostgreSQL (prod).  
 
 ## Design
 This application is designed to give the functionality of evaluating
@@ -62,6 +45,23 @@ on the teacher evaluation form.
 
 We have created some test data to experiment with here are the accounts (you can also create your own account but in order to see admin views 
 use the example teacher account)
+
+# Work Examples
+##### Landing page for teachers. User log in and authentication is done using Devise.
+![Teacher Landing Page](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/TeacherLandingPage.png)  
+  
+
+##### Group assignment page for teachers. Drag N' Drop lists from students enrolled in the class and currently in the group.
+![Teacher Group Assignment](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/TeacherGroupDragNDrop.png)  
+  
+
+##### Teacher's review of evaluations and average score received by each student. Teacher can assign/change scores if needed.
+![Teacher Review of Evaluations](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/TeacherReviewOfEvalulations.png)  
+  
+
+##### Landing page for students. Only option they have is to create new or view existing evaluations.
+![Student Landing Page](https://github.com/LoganWolfe/Peer-Evaluator/blob/06d68612a95f5c2d4e9a2e1f1c52c100f702f7cd/StudentLandingPage.png)  
+  
 
 ## Extensions:
 We have multi-group functionality for a teacher to add a student 
